@@ -66,8 +66,8 @@ export default function RegisterPage({ user }) {
   };
 
   const handleUseDemoAccount = () => {
-    setName("Enrico");
-    setEmail("zenoef03@gmail.com");
+    setName("Budi");
+    setEmail("budi212@gmail.com");
     setPassword("12345678");
     setError("");
   };

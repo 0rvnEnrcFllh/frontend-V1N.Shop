@@ -72,7 +72,7 @@ export default function LoginPage({ user, token, onLogin }) {
   };
 
   const handleUseDemoAccount = () => {
-    setEmail("orvnenrcfllh@gmail.com");
+    setEmail("admin1@gmail.com");
     setPassword("password123");
     setError("");
   };
@@ -159,7 +159,7 @@ export default function LoginPage({ user, token, onLogin }) {
                       Akun Pengujian Demo:
                     </span>
                     <span className="text-muted font-monospace small">
-                      orvnenrcfllh@gmail.com (sandi: password123)
+                      admin1@gmail.com (sandi: password123)
                     </span>
                   </div>
                   <button
