@@ -1,7 +1,8 @@
 import axios from "axios";
 
-// export const BACKEND_BASE_URL = "https://backend-v1nshop-production.up.railway.app";
-export const BACKEND_BASE_URL = "http://localhost:3000";
+export const BACKEND_BASE_URL =
+  "https://backend-v1nshop-production-1215.up.railway.app";
+// export const BACKEND_BASE_URL = "http://localhost:3000";
 export const AUTH_API_URL = `${BACKEND_BASE_URL}/auth/login`;
 export const REGISTER_API_URL = `${BACKEND_BASE_URL}/auth/register`;
 export const CATEGORIES_API_URL = `${BACKEND_BASE_URL}/api/categories`;
