@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Domain
 
-Demo : https://frontend-v1nshop-production.up.railway.app
+Demo : https://frontend-v1nshop-production-db80.up.railway.app
